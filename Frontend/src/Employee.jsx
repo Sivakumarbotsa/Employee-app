@@ -12,7 +12,7 @@ const Employee = () => {
     const empHandler=async(e)=>{
         e.preventDefault();
         console.log(empDetails);
-        const response = await fetch('http://localhost:5000/api/emp/add-emp', {
+        const response = await fetch("https://employee-app-i9ib.onrender.com/api/emp", {
             method: "POST",
             headers: {
                 'Content-Type': 'application/json'
