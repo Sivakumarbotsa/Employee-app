@@ -2,12 +2,7 @@
 
 A full-stack MERN (MongoDB, Express, React, Node.js) project that allows users to register employee details through a web interface and stores them in a MongoDB Atlas database.
 
----
-
-
-
-
----
+-----
 
 ## 🚀 Features
 
@@ -20,8 +15,8 @@ A full-stack MERN (MongoDB, Express, React, Node.js) project that allows users t
 
 ## 🔗 Live Links
 
-- **Frontend**: [Netlify Link](https://your-frontend.netlify.app)
-- **Backend API**: [Render Link](https://your-backend.onrender.com)
+- **Frontend**: [Netlify Link](https://employeer-registeration.netlify.app/)
+- **Backend API**: [Render Link](https://employee-app-i9ib.onrender.com/)
 
 ---
 
@@ -34,10 +29,3 @@ A full-stack MERN (MongoDB, Express, React, Node.js) project that allows users t
 
 ---
 
-## 🧑‍💻 Getting Started (Locally)
-
-### Clone the Repo
-
-```bash
-git clone https://github.com/yourusername/employee-registration-app.git
-cd employee-registration-app
